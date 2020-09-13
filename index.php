@@ -6,12 +6,9 @@
     <title>Document</title>
 </head>
 <body>
-    <h1>Hello, World</h1>
-    <h1>Hello, World</h1>
-    <h1>Hello, World</h1>
+    <ul id="weeks_ul">
 
-    <div id="display"></div>
-
+    </ul>
     <script src="./main.js"></script>
 </body>
 </html>
