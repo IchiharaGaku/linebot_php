@@ -6,9 +6,6 @@
     <title>Document</title>
 </head>
 <body>
-    <ul id="weeks_ul">
-
-    </ul>
-    <script src="./main.js"></script>
+    <script src="../main.js"></script>
 </body>
 </html>
